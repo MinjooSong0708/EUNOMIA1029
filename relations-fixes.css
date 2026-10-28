@@ -1,0 +1,2 @@
+@media(min-width:761px){.visual iframe{top:14%!important;height:64%!important}}
+@media(max-width:760px){.visual iframe{height:66%!important;top:10%!important}.visual-bottom h2{max-width:100%!important;font-size:17px!important}.visual-bottom{pointer-events:none}.part-list{pointer-events:auto}}
